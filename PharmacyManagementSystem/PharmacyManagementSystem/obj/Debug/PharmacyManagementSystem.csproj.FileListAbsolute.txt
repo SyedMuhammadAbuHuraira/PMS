@@ -1,0 +1,243 @@
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.FormUsers.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddStock.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddStock.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.FormUsers.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddItem.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddManufacturer.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\2021-CS-165PHARMACY\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddSupplier.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Item.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Patient.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddItem.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddManufacturer.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddStock.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddSupplier.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.CreateInvoice.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.FormUsers.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Stock_Return.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Item.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Patient.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddItem.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddManufacturer.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddStock.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddSupplier.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.CreateInvoice.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Stock_Return.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Login.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.RegisterUser.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.SaleReturn.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Item.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Patient.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddItem.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddManufacturer.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddStock.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddSupplier.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.CreateInvoice.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Login.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.RegisterUser.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Reports.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.SaleReturn.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Stock_Return.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+E:\4 semester\DBMS\FINAL YEAR PROJECT\Burhan Creation\PharmacyManagementSystem2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Item.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Patient.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddItem.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddManufacturer.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddStock.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddSupplier.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.CreateInvoice.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Login.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.RegisterUser.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Reports.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.SaleReturn.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Stock_Return.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\PMS\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Patient.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddItem.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddManufacturer.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddStock.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddSupplier.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.CreateInvoice.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Login.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.RegisterUser.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Reports.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.SaleReturn.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Stock_Return.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_product_in_stock.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.GenerateReports.resources
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\bin\Debug\EPPlus.Core.dll
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\bin\Debug\EPPlus.Core.xml
+E:\4 semester\DBMS\FINAL YEAR PROJECT\FINALIZE PHM\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\EPPlus.Core.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\EPPlus.Core.xml
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Patient.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddItem.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddManufacturer.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_product_in_stock.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddStock.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddSupplier.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.CreateInvoice.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.GenerateReports.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Login.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.RegisterUser.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Reports.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.SaleReturn.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Stock_Return.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\EPPlus.Core.dll
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\bin\Debug\EPPlus.Core.xml
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Patient.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddItem.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddManufacturer.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_product_in_stock.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddStock.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddSupplier.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.CreateInvoice.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.GenerateReports.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Login.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.RegisterUser.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Reports.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.SaleReturn.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Stock_Return.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+D:\Semester4\bhbnew\PMS\BURHAN\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\bin\Debug\EPPlus.Core.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\bin\Debug\EPPlus.Core.xml
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Patient.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddItem.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddManufacturer.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_product_in_stock.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddStock.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AddSupplier.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.CreateInvoice.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.GenerateReports.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Login.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.RegisterUser.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.SaleReturn.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Stock_Return.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.Add_Item.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.AuditTables.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\Semester 5\SE LAB\BURHAN\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.DashBoard.resources
